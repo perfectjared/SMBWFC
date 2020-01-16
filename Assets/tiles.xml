@@ -1,0 +1,8 @@
+<set>
+  <tiles>
+<tile name="Assets/Prefabs/Ground/Brown Ground 7x2" symmetry="X" weight="1.0"/>
+<tile name="Assets/Prefabs/Ground/Brown Ground 5x2" symmetry="X" weight="1.0"/>
+<tile name="Assets/Prefabs/Ground/Brown Ground 1x2" symmetry="X" weight="1.0"/>
+	</tiles>
+<neighbors>	</neighbors>
+</set>
