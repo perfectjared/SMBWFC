@@ -8,7 +8,8 @@ public class GameStateManager : MonoBehaviour {
 	public int spawnPointIdx;
 	public int spawnPipeIdx;
 
-	public int marioSize;
+	public bool destroyOnLoad;
+    public int marioSize;
 	public int lives;
 	public int coins;
 	public int scores;
@@ -19,12 +20,15 @@ public class GameStateManager : MonoBehaviour {
 	public bool timeup;
 
 	void Awake () {
-		if (FindObjectsOfType (GetType ()).Length == 1) {
-			DontDestroyOnLoad (gameObject);
-			ConfigNewGame ();
-		} else {
-			Destroy (gameObject);
-		}
+			if (FindObjectsOfType(GetType()).Length == 1)
+			{
+				DontDestroyOnLoad(gameObject);
+				ConfigNewGame();
+			}
+			else
+			{
+				Destroy(gameObject);
+			}
 	}
 	
 	public void ResetSpawnPosition() {
