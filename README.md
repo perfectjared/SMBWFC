@@ -1,18 +1,18 @@
-#SMBWFC
+# SMBWFC
 ***
-###credits
+### credits
 - uses linhvu14's SMB-clone (https://github.com/linhdvu14/SMB-clone)
 - uses selfsame's unity-wave-function-collapse (https://selfsame.itch.io/unitywfc)
 
 ***
-###controls
+### controls
 - move: left/right
 - crouch: down
 - jump: z
 - dash/fire: x
 ***
 
-###explanation
+### explanation
 
 there are three scenes to open in Unity, in Assets/, all are different experiments of using of WFC for SMB level design.
 
@@ -39,7 +39,7 @@ this use of WFC composes three samples - a ground canvas, as in W-FC2, as well a
 <img src = "https://raw.githubusercontent.com/sweet-JP/SMBWFC/master/Screenshots/wfc32.png" width="690">
 
 ***
-###future work
+### future work
 - i'd like a level generator that generates as mario moves - generating in front of you
 - i'd to just arrange an entire game of WFC levels
 - i'd like to make an infinite level generator, with some kind of high score challenge
