@@ -1,0 +1,22 @@
+Asset is governed by the Asset Store EULA; however, the following components are governed by the licenses indicated below:
+
+* Itim Font 
+[SIL Open Font License from Google Fonts]
+
+* Walibi Font 
+[dafont 100% free font by dragon winter]
+
+* Emoji icons provided free from http://emojione.com/
+[Used with attribution]
+
+* Fire Seamless tile (edited) from http://www.deviantart.com/art/Fire-Seamless-tile-116721709
+[Used with credit back to artist as requested]
+
+* Typewriter Bell sound from http://www.freesound.org/people/ramsamba/sounds/318687/
+[Creative Commons 0 License]
+
+* Typewriter key sound from http://www.freesound.org/people/cabled_mess/sounds/360602/
+[Creative Commons 0 License]
+
+* Vibraphone sound from http://www.freesound.org/people/Hotlavaman/sounds/349201/
+[Creative Commons 0 License]
